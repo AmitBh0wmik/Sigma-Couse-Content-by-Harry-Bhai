@@ -1,0 +1,1 @@
+alert("Hellow Amit . Make maney through web development");
